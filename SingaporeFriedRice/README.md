@@ -88,4 +88,4 @@ This recipe yields a massive single portion (~3 cups cooked).
 Feel free to fork this recipe, especially if you know how to incorporate a better MSG implementation. Pull requests that suggest adding olive oil will be rejected and the user shamed.
 
 ## 📄 License
-This recipe is distributed under the Fuiyoh Umami License (FUL). Eat well, nephew.
+This recipe is distributed under the Red Hat explanation of what Open Source is as explained by [Harish Pillay](https://sg.linkedin.com/in/harishpillay).
